@@ -1,0 +1,179 @@
+hello
+hello_world.rb
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~
+$ Git remote add origin
+fatal: not a git repository (or any of the parent directories): .git
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~
+$ var
+bash: var: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~
+$ git checkout master
+fatal: not a git repository (or any of the parent directories): .git
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~
+$
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~
+$ 'variable'
+bash: variable: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~
+$ mkdir hello_world
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~
+$ touch index.html
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~
+$ code . -r
+bash: code: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~
+$ git checkout master
+fatal: not a git repository (or any of the parent directories): .git
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~
+$ ls
+
+'3D Objects'/
+ AppData/
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ Games/
+ IntelGraphicsProfiles/
+ Links/
+'Lokala inställningar'@
+ Mallar@
+ MicrosoftEdgeBackups/
+'Mina dokument'@
+ Music/
+ NTUSER.DAT
+ NTUSER.DAT{ac172ded-0fc7-11eb-942e-8859423f6338}.TM.blf
+ NTUSER.DAT{ac172ded-0fc7-11eb-942e-8859423f6338}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{ac172ded-0fc7-11eb-942e-8859423f6338}.TMContainer00000000000000000002.regtrans-ms
+ Nätverket@
+ OneDrive/
+ Programdata@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+ Skrivare@
+ Start-meny@
+ Videos/
+ edb_psqlodbc.exe*
+ hello_world/
+ index.html
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ postgresql_11.exe*
+ postgresql_12.exe*
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ $ g$ git log
+bash: $: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ git branch
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ describe
+bash: describe: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ git checkout master
+error: pathspec 'master' did not match any file(s) known to git
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ .gitconfig file
+bash: .gitconfig: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ HOMR
+bash: HOMR: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ HOMR
+bash: HOMR: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ HOME
+bash: HOME: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ irb
+bash: irb: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ touch |rubyanswers.rb|
+> mkdir folder
+touch: missing file operand
+Try 'touch --help' for more information.
+bash: rubyanswers.rb: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ touch mkdir folder
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ code
+bash: code: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ mkdir src/assets/js
+mkdir: cannot create directory ‘src/assets/js’: No such file or directory
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ touch src/assets/js/bmiCalculator.js
+touch: cannot touch 'src/assets/js/bmiCalculator.js': No such file or directory
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ code . index.html
+bash: code: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ code .
+bash: code: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ code . index.html
+bash: code: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ mkdir ruby_exercises
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~ (master)
+$ cd ruby_exercises
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~/ruby_exercises (master)
+$ git init
+Initialized empty Git repository in C:/Users/raoul/ruby_exercises/.git/
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~/ruby_exercises (master)
+$ touch my_group.rb
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~/ruby_exercises (master)
+$ my_group
+bash: my_group: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~/ruby_exercises (master)
+$ yarn init
+bash: yarn: command not found
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~/ruby_exercises (master)
+$ ^C
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~/ruby_exercises (master)
+$ ^C
+
+raoul@DESKTOP-KKJ0465 MINGW64 ~/ruby_exercises (master)
+$
